@@ -1,0 +1,51 @@
+#main
+{
+ text-align:center;
+  
+}
+body
+{
+  background-color:hsla(80,40%,60%,.6);
+}
+#title
+{
+  text-align: center;
+}
+.tit:hover
+{
+background-color:hsla(120,60%,40%,.4);
+}
+
+#image
+{ 
+  margin-left:auto;
+  margin-right:auto;
+ max-width:100%;
+display:block;
+}
+#img-div
+{
+align:center;
+background:hsla(40,40%,60%,.5);
+border-radius:40px;
+}
+#tri:hover
+{
+
+background:hsla(120,40%,60%,.5);
+border-radius:50px;
+}
+b
+{
+  line-height:40px;
+}
+#tribute-link
+{
+background:hsla(60,60%,40%,.5);
+border-radius:30px;
+}
+#foot:hover
+{
+background:hsla(40,40%,60%,.7);
+border-radius:120px;
+}
